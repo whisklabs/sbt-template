@@ -1,4 +1,4 @@
-name := "whisk-text-preprocessing"
+name := "whisk-sbt-template"
 
 organization := "whisk"
 
