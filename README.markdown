@@ -8,6 +8,6 @@ A simple template for new SBT projects. Featuring:
 
 ## Library versions:
 
-* sbt 1.13.2
+* sbt 0.13.2
 * scala 2.10.4
 * scalariform 1.3.0
